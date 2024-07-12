@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  This line of text is centered.
-</div>
+
 
 🛰️ This is a report on Introduction to CubeSat and Satellite Communication. 📡
 
