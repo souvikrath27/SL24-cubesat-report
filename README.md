@@ -8,6 +8,11 @@ CubeSats are small satellites that have been standardized in size, hence attract
 ## 🗺 Mapping
  - [🛰 More about Cubesat ](#moreaboutcubesat)
  - [📡 Antenna](#antenna)
+ - [ TinyGS](#tinygs)
+ - [ Lab works](#labworks)
+ - [ Other resources and tools](#otherresourcesandtools)
+ - [ LICENSE](#license)
+ - [ Acknowledgements](#acknowledgements)
 
 
 ## 🛰 More about Cubesat
