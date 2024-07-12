@@ -2,8 +2,7 @@
   This line of text is centered.
 </div>
 
-<div align="center">
- 🛰️ This is a report on Introduction to CubeSat and Satellite Communication. 📡
+🛰️ This is a report on Introduction to CubeSat and Satellite Communication. 📡
 
  
 ## 🎁 Unboxing Cubesat!
