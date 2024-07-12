@@ -1,5 +1,5 @@
 
-This is a report on Introduction to CubeSat and Satellite Communication. 
+🛰️ This is a report on Introduction to CubeSat and Satellite Communication. 📡
 ## Unwrapping Cubesat!
 ![cubesat image shortened](https://github.com/user-attachments/assets/010089f9-3cf1-4272-8012-e810ffe9565f)
 
